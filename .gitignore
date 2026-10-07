@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.db
+reports/
+usage.log
+*.xlsx
+jobs.csv
+logs/
+.env.*
+!.env.example
+.claude/settings.local.json
+top_matches_*.csv

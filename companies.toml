@@ -1,0 +1,19 @@
+# Employers to search, grouped by the applicant-tracking system they use.
+# The slug is the part of their careers URL:
+#   boards.greenhouse.io/<slug>   jobs.lever.co/<slug>   jobs.ashbyhq.com/<slug>
+# Global set: hiring across Canada, the US, Europe, Asia-Pacific and India (all verified 2026-10-07).
+greenhouse = [
+  "stripe", "airbnb", "databricks", "figma", "faire", "lyft", "okta", "elastic", "gitlab",
+  "mongodb", "datadog", "affirm", "brex", "samsara", "pinterest", "reddit", "robinhood",
+  "asana", "celonis", "sumup", "n26", "monzo", "deliveroo", "twilio", "toast", "dropbox",
+  "instacart", "squarespace", "contentful",
+]
+lever = []  # spotify and palantir removed: their boards take 1–8 min to respond
+ashby = ["cohere", "1password", "clickhouse", "notion", "ramp", "elevenlabs", "supabase", "linear", "synthesia"]
+
+# A large careers site paged through its public search (10 results per page, like a browser).
+# This is the source that starts refusing a single IP after a couple of hundred pages.
+# query = "" pages through every listing (10,000 = 1,000 pages); keywords filter afterwards.
+[bigsite]
+pages = 1000
+query = ""

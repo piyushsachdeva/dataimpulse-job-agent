@@ -1,0 +1,25 @@
+Use DataImpulse from Claude Code: type these yourself
+
+  TERMINAL 2: start the DataImpulse MCP server and leave it running (it shows every tool call):
+       cd ~/repos/sponsorship-work/job-agent && uv run jobsearch-mcp --http
+
+  HERE (terminal 1):
+  1. Connect Claude Code to it (once):
+       claude mcp add -s user --transport http dataimpulse http://127.0.0.1:8765/mcp
+
+  2. Check it's connected:
+       claude mcp list
+
+  3. Open Claude:
+       claude
+     then type  /mcp  → dataimpulse to see its tools (Esc to close), and ask:
+
+       Use the dataimpulse tools. Look at the jobs from my latest sweep and find the 5 best
+       matches for my profile.md, at most one per company. Read each posting with get_job,
+       save a 0–100 score and a one-line reason with track_job, then show me a ranked table
+       and the usage receipt.
+
+     Watch terminal 2: each tool call appears as ▶ … ◀ …
+     When it's done: /exit
+
+  4. Type  exit  to go back to the demo.

@@ -1,0 +1,107 @@
+<svg class="rich-terminal" viewBox="0 0 1458 367.2" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-4171314317-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-4171314317-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-4171314317-r1 { fill: #68a0b3;font-weight: bold }
+.terminal-4171314317-r2 { fill: #c5c8c6 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-4171314317-clip-terminal">
+      <rect x="0" y="0" width="1438.6" height="316.2" />
+    </clipPath>
+    <clipPath id="terminal-4171314317-line-0">
+    <rect x="0" y="1.5" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-1">
+    <rect x="0" y="25.9" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-2">
+    <rect x="0" y="50.3" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-3">
+    <rect x="0" y="74.7" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-4">
+    <rect x="0" y="99.1" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-5">
+    <rect x="0" y="123.5" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-6">
+    <rect x="0" y="147.9" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-7">
+    <rect x="0" y="172.3" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-8">
+    <rect x="0" y="196.7" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-9">
+    <rect x="0" y="221.1" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-10">
+    <rect x="0" y="245.5" width="1439.6" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-4171314317-line-11">
+    <rect x="0" y="269.9" width="1439.6" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1456" height="365.2" rx="8"/><text class="terminal-4171314317-title" fill="#c5c8c6" text-anchor="middle" x="728" y="27">Exit&#160;IPs&#160;worldwide</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-4171314317-clip-terminal)">
+    
+    <g class="terminal-4171314317-matrix">
+    <text class="terminal-4171314317-r1" x="0" y="20" textLength="536.8" clip-path="url(#terminal-4171314317-line-0)">$&#160;uv&#160;run&#160;jobagent&#160;ip&#160;ca&#160;us&#160;gb&#160;de&#160;in&#160;jp&#160;au&#160;br</text><text class="terminal-4171314317-r2" x="1439.6" y="20" textLength="12.2" clip-path="url(#terminal-4171314317-line-0)">
+</text><text class="terminal-4171314317-r2" x="0" y="44.4" textLength="658.8" clip-path="url(#terminal-4171314317-line-1)">&#160;&#160;CA&#160;&#160;-&gt;&#160;142.127.7.75&#160;&#160;&#160;&#160;&#160;Stouffville,&#160;Canada&#160;&#160;(1.57s)</text><text class="terminal-4171314317-r2" x="1439.6" y="44.4" textLength="12.2" clip-path="url(#terminal-4171314317-line-1)">
+</text><text class="terminal-4171314317-r2" x="0" y="68.8" textLength="732" clip-path="url(#terminal-4171314317-line-2)">&#160;&#160;US&#160;&#160;-&gt;&#160;9.237.77.210&#160;&#160;&#160;&#160;&#160;Sacramento,&#160;United&#160;States&#160;&#160;(3.77s)</text><text class="terminal-4171314317-r2" x="1439.6" y="68.8" textLength="12.2" clip-path="url(#terminal-4171314317-line-2)">
+</text><text class="terminal-4171314317-r2" x="0" y="93.2" textLength="732" clip-path="url(#terminal-4171314317-line-3)">&#160;&#160;GB&#160;&#160;-&gt;&#160;109.159.49.235&#160;&#160;&#160;Braintree,&#160;United&#160;Kingdom&#160;&#160;(1.07s)</text><text class="terminal-4171314317-r2" x="1439.6" y="93.2" textLength="12.2" clip-path="url(#terminal-4171314317-line-3)">
+</text><text class="terminal-4171314317-r2" x="0" y="117.6" textLength="610" clip-path="url(#terminal-4171314317-line-4)">&#160;&#160;DE&#160;&#160;-&gt;&#160;89.12.208.7&#160;&#160;&#160;&#160;&#160;&#160;Berlin,&#160;Germany&#160;&#160;(0.91s)</text><text class="terminal-4171314317-r2" x="1439.6" y="117.6" textLength="12.2" clip-path="url(#terminal-4171314317-line-4)">
+</text><text class="terminal-4171314317-r2" x="0" y="142" textLength="622.2" clip-path="url(#terminal-4171314317-line-5)">&#160;&#160;IN&#160;&#160;-&gt;&#160;103.102.90.46&#160;&#160;&#160;&#160;New&#160;Delhi,&#160;India&#160;&#160;(1.84s)</text><text class="terminal-4171314317-r2" x="1439.6" y="142" textLength="12.2" clip-path="url(#terminal-4171314317-line-5)">
+</text><text class="terminal-4171314317-r2" x="0" y="166.4" textLength="573.4" clip-path="url(#terminal-4171314317-line-6)">&#160;&#160;JP&#160;&#160;-&gt;&#160;60.47.186.208&#160;&#160;&#160;&#160;Tokyo,&#160;Japan&#160;&#160;(0.64s)</text><text class="terminal-4171314317-r2" x="1439.6" y="166.4" textLength="12.2" clip-path="url(#terminal-4171314317-line-6)">
+</text><text class="terminal-4171314317-r2" x="0" y="190.8" textLength="634.4" clip-path="url(#terminal-4171314317-line-7)">&#160;&#160;AU&#160;&#160;-&gt;&#160;180.233.125.210&#160;&#160;Sydney,&#160;Australia&#160;&#160;(7.02s)</text><text class="terminal-4171314317-r2" x="1439.6" y="190.8" textLength="12.2" clip-path="url(#terminal-4171314317-line-7)">
+</text><text class="terminal-4171314317-r2" x="0" y="215.2" textLength="634.4" clip-path="url(#terminal-4171314317-line-8)">&#160;&#160;BR&#160;&#160;-&gt;&#160;191.227.220.179&#160;&#160;São&#160;Paulo,&#160;Brazil&#160;&#160;(1.93s)</text><text class="terminal-4171314317-r2" x="1439.6" y="215.2" textLength="12.2" clip-path="url(#terminal-4171314317-line-8)">
+</text><text class="terminal-4171314317-r2" x="0" y="239.6" textLength="866.2" clip-path="url(#terminal-4171314317-line-9)">&#160;&#160;rotating:&#160;67.193.240.39&#160;,&#160;69.158.108.154&#160;,&#160;24.78.60.110&#160;&#160;(3&#160;distinct)</text><text class="terminal-4171314317-r2" x="1439.6" y="239.6" textLength="12.2" clip-path="url(#terminal-4171314317-line-9)">
+</text><text class="terminal-4171314317-r2" x="0" y="264" textLength="902.8" clip-path="url(#terminal-4171314317-line-10)">&#160;&#160;sticky&#160;&#160;:&#160;207.216.205.78&#160;,&#160;207.216.205.78&#160;,&#160;207.216.205.78&#160;&#160;(1&#160;distinct)</text><text class="terminal-4171314317-r2" x="1439.6" y="264" textLength="12.2" clip-path="url(#terminal-4171314317-line-10)">
+</text><text class="terminal-4171314317-r2" x="1439.6" y="288.4" textLength="12.2" clip-path="url(#terminal-4171314317-line-11)">
+</text><text class="terminal-4171314317-r2" x="0" y="312.8" textLength="1024.8" clip-path="url(#terminal-4171314317-line-12)">Receipt:&#160;14&#160;requests&#160;·&#160;6.2&#160;KB&#160;·&#160;median&#160;response&#160;1.08s&#160;·&#160;est.&#160;cost&#160;$0.000006&#160;at&#160;$1/GB</text><text class="terminal-4171314317-r2" x="1439.6" y="312.8" textLength="12.2" clip-path="url(#terminal-4171314317-line-12)">
+</text>
+    </g>
+    </g>
+</svg>

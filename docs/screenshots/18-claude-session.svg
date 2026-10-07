@@ -1,0 +1,457 @@
+<svg class="rich-terminal" viewBox="0 0 1848 2465.6" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-3058588791-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-3058588791-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-3058588791-r1 { fill: #c5c8c6;font-weight: bold }
+.terminal-3058588791-r2 { fill: #c5c8c6 }
+.terminal-3058588791-r3 { fill: #868887 }
+.terminal-3058588791-r4 { fill: #98a84b }
+.terminal-3058588791-r5 { fill: #98729f }
+.terminal-3058588791-r6 { fill: #98a84b;font-weight: bold }
+.terminal-3058588791-r7 { fill: #68a0b3;font-weight: bold }
+.terminal-3058588791-r8 { fill: #68a0b3 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-3058588791-clip-terminal">
+      <rect x="0" y="0" width="1829.0" height="2414.6" />
+    </clipPath>
+    <clipPath id="terminal-3058588791-line-0">
+    <rect x="0" y="1.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-1">
+    <rect x="0" y="25.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-2">
+    <rect x="0" y="50.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-3">
+    <rect x="0" y="74.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-4">
+    <rect x="0" y="99.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-5">
+    <rect x="0" y="123.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-6">
+    <rect x="0" y="147.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-7">
+    <rect x="0" y="172.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-8">
+    <rect x="0" y="196.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-9">
+    <rect x="0" y="221.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-10">
+    <rect x="0" y="245.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-11">
+    <rect x="0" y="269.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-12">
+    <rect x="0" y="294.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-13">
+    <rect x="0" y="318.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-14">
+    <rect x="0" y="343.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-15">
+    <rect x="0" y="367.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-16">
+    <rect x="0" y="391.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-17">
+    <rect x="0" y="416.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-18">
+    <rect x="0" y="440.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-19">
+    <rect x="0" y="465.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-20">
+    <rect x="0" y="489.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-21">
+    <rect x="0" y="513.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-22">
+    <rect x="0" y="538.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-23">
+    <rect x="0" y="562.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-24">
+    <rect x="0" y="587.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-25">
+    <rect x="0" y="611.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-26">
+    <rect x="0" y="635.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-27">
+    <rect x="0" y="660.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-28">
+    <rect x="0" y="684.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-29">
+    <rect x="0" y="709.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-30">
+    <rect x="0" y="733.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-31">
+    <rect x="0" y="757.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-32">
+    <rect x="0" y="782.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-33">
+    <rect x="0" y="806.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-34">
+    <rect x="0" y="831.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-35">
+    <rect x="0" y="855.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-36">
+    <rect x="0" y="879.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-37">
+    <rect x="0" y="904.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-38">
+    <rect x="0" y="928.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-39">
+    <rect x="0" y="953.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-40">
+    <rect x="0" y="977.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-41">
+    <rect x="0" y="1001.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-42">
+    <rect x="0" y="1026.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-43">
+    <rect x="0" y="1050.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-44">
+    <rect x="0" y="1075.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-45">
+    <rect x="0" y="1099.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-46">
+    <rect x="0" y="1123.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-47">
+    <rect x="0" y="1148.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-48">
+    <rect x="0" y="1172.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-49">
+    <rect x="0" y="1197.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-50">
+    <rect x="0" y="1221.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-51">
+    <rect x="0" y="1245.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-52">
+    <rect x="0" y="1270.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-53">
+    <rect x="0" y="1294.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-54">
+    <rect x="0" y="1319.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-55">
+    <rect x="0" y="1343.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-56">
+    <rect x="0" y="1367.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-57">
+    <rect x="0" y="1392.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-58">
+    <rect x="0" y="1416.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-59">
+    <rect x="0" y="1441.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-60">
+    <rect x="0" y="1465.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-61">
+    <rect x="0" y="1489.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-62">
+    <rect x="0" y="1514.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-63">
+    <rect x="0" y="1538.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-64">
+    <rect x="0" y="1563.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-65">
+    <rect x="0" y="1587.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-66">
+    <rect x="0" y="1611.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-67">
+    <rect x="0" y="1636.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-68">
+    <rect x="0" y="1660.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-69">
+    <rect x="0" y="1685.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-70">
+    <rect x="0" y="1709.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-71">
+    <rect x="0" y="1733.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-72">
+    <rect x="0" y="1758.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-73">
+    <rect x="0" y="1782.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-74">
+    <rect x="0" y="1807.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-75">
+    <rect x="0" y="1831.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-76">
+    <rect x="0" y="1855.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-77">
+    <rect x="0" y="1880.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-78">
+    <rect x="0" y="1904.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-79">
+    <rect x="0" y="1929.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-80">
+    <rect x="0" y="1953.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-81">
+    <rect x="0" y="1977.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-82">
+    <rect x="0" y="2002.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-83">
+    <rect x="0" y="2026.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-84">
+    <rect x="0" y="2051.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-85">
+    <rect x="0" y="2075.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-86">
+    <rect x="0" y="2099.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-87">
+    <rect x="0" y="2124.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-88">
+    <rect x="0" y="2148.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-89">
+    <rect x="0" y="2173.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-90">
+    <rect x="0" y="2197.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-91">
+    <rect x="0" y="2221.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-92">
+    <rect x="0" y="2246.3" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-93">
+    <rect x="0" y="2270.7" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-94">
+    <rect x="0" y="2295.1" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-95">
+    <rect x="0" y="2319.5" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-96">
+    <rect x="0" y="2343.9" width="1830" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3058588791-line-97">
+    <rect x="0" y="2368.3" width="1830" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1846" height="2463.6" rx="8"/><text class="terminal-3058588791-title" fill="#c5c8c6" text-anchor="middle" x="923" y="27">Claude&#160;Code&#160;session</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-3058588791-clip-terminal)">
+    <rect fill="#4b4e55" x="1671.4" y="1319.1" width="134.2" height="24.65" shape-rendering="crispEdges"/><rect fill="#4b4e55" x="329.4" y="1343.5" width="109.8" height="24.65" shape-rendering="crispEdges"/>
+    <g class="terminal-3058588791-matrix">
+    <text class="terminal-3058588791-r1" x="0" y="20" textLength="1817.8" clip-path="url(#terminal-3058588791-line-0)">&gt;&#160;Use&#160;the&#160;dataimpulse&#160;tools.&#160;Look&#160;at&#160;the&#160;jobs&#160;from&#160;my&#160;latest&#160;sweep&#160;and&#160;find&#160;the&#160;5&#160;best&#160;matches&#160;for&#160;my&#160;profile.md,&#160;at&#160;most&#160;one&#160;per&#160;company.&#160;Read&#160;each&#160;</text><text class="terminal-3058588791-r2" x="1830" y="20" textLength="12.2" clip-path="url(#terminal-3058588791-line-0)">
+</text><text class="terminal-3058588791-r1" x="0" y="44.4" textLength="1573.8" clip-path="url(#terminal-3058588791-line-1)">posting&#160;with&#160;get_job,&#160;save&#160;a&#160;0–100&#160;score&#160;and&#160;a&#160;one-line&#160;reason&#160;with&#160;track_job,&#160;then&#160;show&#160;me&#160;a&#160;ranked&#160;table&#160;and&#160;the&#160;usage&#160;receipt.</text><text class="terminal-3058588791-r2" x="1830" y="44.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-1)">
+</text><text class="terminal-3058588791-r3" x="0" y="68.8" textLength="719.8" clip-path="url(#terminal-3058588791-line-2)">&#160;&#160;(2&#160;setup&#160;steps&#160;hidden:&#160;loading&#160;tools,&#160;reading&#160;profile.md)</text><text class="terminal-3058588791-r2" x="1830" y="68.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-2)">
+</text><text class="terminal-3058588791-r4" x="0" y="93.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-3)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="93.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-3)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="93.2" textLength="512.4" clip-path="url(#terminal-3058588791-line-3)">list_tracked(limit=100,&#160;max_per_company=1)</text><text class="terminal-3058588791-r2" x="1830" y="93.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-3)">
+</text><text class="terminal-3058588791-r3" x="0" y="117.6" textLength="1573.8" clip-path="url(#terminal-3058588791-line-4)">&#160;&#160;⎿&#160;&#160;39&#160;unscored&#160;jobs,&#160;e.g.&#160;Software&#160;Development&#160;Enginee&#160;(Amazon&#160;Development&#160;Center&#160;U.S.,&#160;Inc.);&#160;Abuse&#160;Research&#160;Engineer&#160;(stripe)</text><text class="terminal-3058588791-r2" x="1830" y="117.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-4)">
+</text><text class="terminal-3058588791-r4" x="0" y="142" textLength="24.4" clip-path="url(#terminal-3058588791-line-5)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="142" textLength="170.8" clip-path="url(#terminal-3058588791-line-5)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="142" textLength="707.6" clip-path="url(#terminal-3058588791-line-5)">list_tracked(title=&quot;backend&quot;,&#160;limit=60,&#160;max_per_company=2)</text><text class="terminal-3058588791-r2" x="1830" y="142" textLength="12.2" clip-path="url(#terminal-3058588791-line-5)">
+</text><text class="terminal-3058588791-r3" x="0" y="166.4" textLength="1268.8" clip-path="url(#terminal-3058588791-line-6)">&#160;&#160;⎿&#160;&#160;46&#160;unscored&#160;jobs,&#160;e.g.&#160;Backend/API&#160;Engineer,&#160;Money&#160;&#160;(stripe);&#160;Backend&#160;Engineer,&#160;Core&#160;Techn&#160;(stripe)</text><text class="terminal-3058588791-r2" x="1830" y="166.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-6)">
+</text><text class="terminal-3058588791-r4" x="0" y="190.8" textLength="24.4" clip-path="url(#terminal-3058588791-line-7)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="190.8" textLength="170.8" clip-path="url(#terminal-3058588791-line-7)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="190.8" textLength="719.8" clip-path="url(#terminal-3058588791-line-7)">list_tracked(country=&quot;Canada&quot;,&#160;limit=80,&#160;max_per_company=3)</text><text class="terminal-3058588791-r2" x="1830" y="190.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-7)">
+</text><text class="terminal-3058588791-r3" x="0" y="215.2" textLength="1634.8" clip-path="url(#terminal-3058588791-line-8)">&#160;&#160;⎿&#160;&#160;68&#160;unscored&#160;jobs,&#160;e.g.&#160;Software&#160;Dev&#160;Engineer&#160;II,&#160;Or&#160;(Amazon&#160;Development&#160;Centre&#160;Canada&#160;ULC);&#160;Backend&#160;Engineer,&#160;Developer&#160;&#160;(stripe)</text><text class="terminal-3058588791-r2" x="1830" y="215.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-8)">
+</text><text class="terminal-3058588791-r4" x="0" y="239.6" textLength="24.4" clip-path="url(#terminal-3058588791-line-9)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="239.6" textLength="170.8" clip-path="url(#terminal-3058588791-line-9)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="239.6" textLength="719.8" clip-path="url(#terminal-3058588791-line-9)">list_tracked(title=&quot;platform&quot;,&#160;limit=60,&#160;max_per_company=2)</text><text class="terminal-3058588791-r2" x="1830" y="239.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-9)">
+</text><text class="terminal-3058588791-r3" x="0" y="264" textLength="1268.8" clip-path="url(#terminal-3058588791-line-10)">&#160;&#160;⎿&#160;&#160;60&#160;unscored&#160;jobs,&#160;e.g.&#160;Android&#160;Engineer,&#160;Terminal&#160;O&#160;(stripe);&#160;Backend&#160;Engineer,&#160;Developer&#160;&#160;(stripe)</text><text class="terminal-3058588791-r2" x="1830" y="264" textLength="12.2" clip-path="url(#terminal-3058588791-line-10)">
+</text><text class="terminal-3058588791-r4" x="0" y="288.4" textLength="24.4" clip-path="url(#terminal-3058588791-line-11)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="288.4" textLength="170.8" clip-path="url(#terminal-3058588791-line-11)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="288.4" textLength="793" clip-path="url(#terminal-3058588791-line-11)">list_tracked(title=&quot;infrastructure&quot;,&#160;limit=60,&#160;max_per_company=2)</text><text class="terminal-3058588791-r2" x="1830" y="288.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-11)">
+</text><text class="terminal-3058588791-r3" x="0" y="312.8" textLength="1268.8" clip-path="url(#terminal-3058588791-line-12)">&#160;&#160;⎿&#160;&#160;45&#160;unscored&#160;jobs,&#160;e.g.&#160;Engineering&#160;Manager,&#160;Infrast&#160;(stripe);&#160;Engineering&#160;Manager&#160;of&#160;Manag&#160;(stripe)</text><text class="terminal-3058588791-r2" x="1830" y="312.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-12)">
+</text><text class="terminal-3058588791-r4" x="0" y="337.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-13)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="337.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-13)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="337.2" textLength="524.6" clip-path="url(#terminal-3058588791-line-13)">get_job(job_id=&quot;greenhouse:stripe:8260985&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="337.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-13)">
+</text><text class="terminal-3058588791-r3" x="0" y="361.6" textLength="793" clip-path="url(#terminal-3058588791-line-14)">&#160;&#160;⎿&#160;&#160;Backend&#160;Engineer,&#160;Payments&#160;&amp;&#160;Risk&#160;·&#160;stripe&#160;·&#160;Toronto,&#160;Canada</text><text class="terminal-3058588791-r2" x="1830" y="361.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-14)">
+</text><text class="terminal-3058588791-r4" x="0" y="386" textLength="24.4" clip-path="url(#terminal-3058588791-line-15)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="386" textLength="170.8" clip-path="url(#terminal-3058588791-line-15)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="386" textLength="536.8" clip-path="url(#terminal-3058588791-line-15)">get_job(job_id=&quot;greenhouse:lyft:8857056002&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="386" textLength="12.2" clip-path="url(#terminal-3058588791-line-15)">
+</text><text class="terminal-3058588791-r3" x="0" y="410.4" textLength="976" clip-path="url(#terminal-3058588791-line-16)">&#160;&#160;⎿&#160;&#160;Senior&#160;Software&#160;Engineer,&#160;Foundational&#160;Infrastruct&#160;·&#160;lyft&#160;·&#160;Toronto,&#160;Canada</text><text class="terminal-3058588791-r2" x="1830" y="410.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-16)">
+</text><text class="terminal-3058588791-r4" x="0" y="434.8" textLength="24.4" clip-path="url(#terminal-3058588791-line-17)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="434.8" textLength="170.8" clip-path="url(#terminal-3058588791-line-17)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="434.8" textLength="561.2" clip-path="url(#terminal-3058588791-line-17)">get_job(job_id=&quot;greenhouse:affirm:7785814003&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="434.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-17)">
+</text><text class="terminal-3058588791-r3" x="0" y="459.2" textLength="402.6" clip-path="url(#terminal-3058588791-line-18)">&#160;&#160;⎿&#160;&#160;Error&#160;executing&#160;tool&#160;get_job</text><text class="terminal-3058588791-r2" x="1830" y="459.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-18)">
+</text><text class="terminal-3058588791-r4" x="0" y="483.6" textLength="24.4" clip-path="url(#terminal-3058588791-line-19)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="483.6" textLength="170.8" clip-path="url(#terminal-3058588791-line-19)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="483.6" textLength="512.4" clip-path="url(#terminal-3058588791-line-19)">get_job(job_id=&quot;greenhouse:toast:8223599&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="483.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-19)">
+</text><text class="terminal-3058588791-r3" x="0" y="508" textLength="1085.8" clip-path="url(#terminal-3058588791-line-20)">&#160;&#160;⎿&#160;&#160;Senior&#160;Software&#160;Engineer,&#160;Backend&#160;—&#160;Toast&#160;Internat&#160;·&#160;toast&#160;·&#160;Canada&#160;Hybrid&#160;(Ontario)</text><text class="terminal-3058588791-r2" x="1830" y="508" textLength="12.2" clip-path="url(#terminal-3058588791-line-20)">
+</text><text class="terminal-3058588791-r4" x="0" y="532.4" textLength="24.4" clip-path="url(#terminal-3058588791-line-21)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="532.4" textLength="170.8" clip-path="url(#terminal-3058588791-line-21)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="532.4" textLength="536.8" clip-path="url(#terminal-3058588791-line-21)">get_job(job_id=&quot;greenhouse:mongodb:8081430&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="532.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-21)">
+</text><text class="terminal-3058588791-r3" x="0" y="556.8" textLength="866.2" clip-path="url(#terminal-3058588791-line-22)">&#160;&#160;⎿&#160;&#160;Senior&#160;Software&#160;Engineer,&#160;Atlas&#160;Search&#160;Systems&#160;·&#160;mongodb&#160;·&#160;Toronto</text><text class="terminal-3058588791-r2" x="1830" y="556.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-22)">
+</text><text class="terminal-3058588791-r4" x="0" y="581.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-23)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="581.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-23)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="581.2" textLength="866.2" clip-path="url(#terminal-3058588791-line-23)">get_job(job_id=&quot;ashby:clickhouse:2fdde21b-48de-419f-96e6-b0016c7133e1&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="581.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-23)">
+</text><text class="terminal-3058588791-r3" x="0" y="605.6" textLength="939.4" clip-path="url(#terminal-3058588791-line-24)">&#160;&#160;⎿&#160;&#160;Senior&#160;Software&#160;Engineer&#160;-&#160;Cloud&#160;Infrastructure&#160;-&#160;&#160;·&#160;clickhouse&#160;·&#160;Canada</text><text class="terminal-3058588791-r2" x="1830" y="605.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-24)">
+</text><text class="terminal-3058588791-r4" x="0" y="630" textLength="24.4" clip-path="url(#terminal-3058588791-line-25)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="630" textLength="170.8" clip-path="url(#terminal-3058588791-line-25)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="630" textLength="866.2" clip-path="url(#terminal-3058588791-line-25)">get_job(job_id=&quot;bigsite:Amazon&#160;Development&#160;Centre&#160;Canada&#160;ULC:10460373&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="630" textLength="12.2" clip-path="url(#terminal-3058588791-line-25)">
+</text><text class="terminal-3058588791-r3" x="0" y="654.4" textLength="1159" clip-path="url(#terminal-3058588791-line-26)">&#160;&#160;⎿&#160;&#160;{&quot;ok&quot;:&#160;true,&#160;&quot;status&quot;:&#160;200,&#160;&quot;final_url&quot;:&#160;&quot;https://www.amazon.jobs/en/jobs/10460373/softwar</text><text class="terminal-3058588791-r2" x="1830" y="654.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-26)">
+</text><text class="terminal-3058588791-r4" x="0" y="678.8" textLength="24.4" clip-path="url(#terminal-3058588791-line-27)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="678.8" textLength="170.8" clip-path="url(#terminal-3058588791-line-27)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="678.8" textLength="561.2" clip-path="url(#terminal-3058588791-line-27)">get_job(job_id=&quot;greenhouse:gitlab:8704363002&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="678.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-27)">
+</text><text class="terminal-3058588791-r3" x="0" y="703.2" textLength="1183.4" clip-path="url(#terminal-3058588791-line-28)">&#160;&#160;⎿&#160;&#160;Backend&#160;Engineer&#160;(Python),AI&#160;Engineering:&#160;Agent&#160;Fo&#160;·&#160;gitlab&#160;·&#160;Remote,&#160;Canada;&#160;Remote,&#160;Poland</text><text class="terminal-3058588791-r2" x="1830" y="703.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-28)">
+</text><text class="terminal-3058588791-r4" x="0" y="727.6" textLength="24.4" clip-path="url(#terminal-3058588791-line-29)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="727.6" textLength="170.8" clip-path="url(#terminal-3058588791-line-29)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="727.6" textLength="561.2" clip-path="url(#terminal-3058588791-line-29)">get_job(job_id=&quot;greenhouse:affirm:7785814003&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="727.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-29)">
+</text><text class="terminal-3058588791-r3" x="0" y="752" textLength="976" clip-path="url(#terminal-3058588791-line-30)">&#160;&#160;⎿&#160;&#160;Senior&#160;Software&#160;Engineer,&#160;Backend&#160;(Batch&#160;Infrastru&#160;·&#160;affirm&#160;·&#160;Remote&#160;Canada</text><text class="terminal-3058588791-r2" x="1830" y="752" textLength="12.2" clip-path="url(#terminal-3058588791-line-30)">
+</text><text class="terminal-3058588791-r4" x="0" y="776.4" textLength="24.4" clip-path="url(#terminal-3058588791-line-31)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="776.4" textLength="170.8" clip-path="url(#terminal-3058588791-line-31)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="776.4" textLength="536.8" clip-path="url(#terminal-3058588791-line-31)">get_job(job_id=&quot;greenhouse:brex:8815519002&quot;)</text><text class="terminal-3058588791-r2" x="1830" y="776.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-31)">
+</text><text class="terminal-3058588791-r3" x="0" y="800.8" textLength="951.6" clip-path="url(#terminal-3058588791-line-32)">&#160;&#160;⎿&#160;&#160;Senior&#160;Software&#160;Engineer,&#160;Backend&#160;·&#160;brex&#160;·&#160;Vancouver,&#160;British&#160;Columbia,&#160;C</text><text class="terminal-3058588791-r2" x="1830" y="800.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-32)">
+</text><text class="terminal-3058588791-r4" x="0" y="825.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-33)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="825.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-33)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="825.2" textLength="1366.4" clip-path="url(#terminal-3058588791-line-33)">track_job(job_id=&quot;greenhouse:stripe:8260985&quot;,&#160;status=&quot;shortlisted&quot;,&#160;score=90,&#160;notes=&quot;Toronto,&#160;no&#160;visa&#160;needed;&#160;…)</text><text class="terminal-3058588791-r2" x="1830" y="825.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-33)">
+</text><text class="terminal-3058588791-r3" x="0" y="849.6" textLength="780.8" clip-path="url(#terminal-3058588791-line-34)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="849.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-34)">
+</text><text class="terminal-3058588791-r4" x="0" y="874" textLength="24.4" clip-path="url(#terminal-3058588791-line-35)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="874" textLength="170.8" clip-path="url(#terminal-3058588791-line-35)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="874" textLength="1366.4" clip-path="url(#terminal-3058588791-line-35)">track_job(job_id=&quot;greenhouse:affirm:7785814003&quot;,&#160;status=&quot;shortlisted&quot;,&#160;score=87,&#160;notes=&quot;Remote&#160;Canada&#160;(Ontario…)</text><text class="terminal-3058588791-r2" x="1830" y="874" textLength="12.2" clip-path="url(#terminal-3058588791-line-35)">
+</text><text class="terminal-3058588791-r3" x="0" y="898.4" textLength="780.8" clip-path="url(#terminal-3058588791-line-36)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="898.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-36)">
+</text><text class="terminal-3058588791-r4" x="0" y="922.8" textLength="24.4" clip-path="url(#terminal-3058588791-line-37)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="922.8" textLength="170.8" clip-path="url(#terminal-3058588791-line-37)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="922.8" textLength="1366.4" clip-path="url(#terminal-3058588791-line-37)">track_job(job_id=&quot;ashby:clickhouse:2fdde21b-48de-419f-96e6-b0016c7133e1&quot;,&#160;status=&quot;shortlisted&quot;,&#160;score=86,&#160;note…)</text><text class="terminal-3058588791-r2" x="1830" y="922.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-37)">
+</text><text class="terminal-3058588791-r3" x="0" y="947.2" textLength="780.8" clip-path="url(#terminal-3058588791-line-38)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="947.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-38)">
+</text><text class="terminal-3058588791-r4" x="0" y="971.6" textLength="24.4" clip-path="url(#terminal-3058588791-line-39)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="971.6" textLength="170.8" clip-path="url(#terminal-3058588791-line-39)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="971.6" textLength="1366.4" clip-path="url(#terminal-3058588791-line-39)">track_job(job_id=&quot;greenhouse:mongodb:8081430&quot;,&#160;status=&quot;shortlisted&quot;,&#160;score=84,&#160;notes=&quot;Toronto&#160;hybrid;&#160;5+&#160;yrs&#160;J…)</text><text class="terminal-3058588791-r2" x="1830" y="971.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-39)">
+</text><text class="terminal-3058588791-r3" x="0" y="996" textLength="780.8" clip-path="url(#terminal-3058588791-line-40)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="996" textLength="12.2" clip-path="url(#terminal-3058588791-line-40)">
+</text><text class="terminal-3058588791-r4" x="0" y="1020.4" textLength="24.4" clip-path="url(#terminal-3058588791-line-41)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="1020.4" textLength="170.8" clip-path="url(#terminal-3058588791-line-41)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="1020.4" textLength="1366.4" clip-path="url(#terminal-3058588791-line-41)">track_job(job_id=&quot;greenhouse:toast:8223599&quot;,&#160;status=&quot;shortlisted&quot;,&#160;score=82,&#160;notes=&quot;Toronto/Ontario&#160;hybrid;&#160;5+…)</text><text class="terminal-3058588791-r2" x="1830" y="1020.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-41)">
+</text><text class="terminal-3058588791-r3" x="0" y="1044.8" textLength="780.8" clip-path="url(#terminal-3058588791-line-42)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="1044.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-42)">
+</text><text class="terminal-3058588791-r4" x="0" y="1069.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-43)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="1069.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-43)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="1069.2" textLength="1366.4" clip-path="url(#terminal-3058588791-line-43)">track_job(job_id=&quot;bigsite:Amazon&#160;Development&#160;Centre&#160;Canada&#160;ULC:10460373&quot;,&#160;score=78,&#160;notes=&quot;Exact&#160;SDE&#160;II&#160;title,…)</text><text class="terminal-3058588791-r2" x="1830" y="1069.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-43)">
+</text><text class="terminal-3058588791-r3" x="0" y="1093.6" textLength="780.8" clip-path="url(#terminal-3058588791-line-44)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="1093.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-44)">
+</text><text class="terminal-3058588791-r4" x="0" y="1118" textLength="24.4" clip-path="url(#terminal-3058588791-line-45)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="1118" textLength="170.8" clip-path="url(#terminal-3058588791-line-45)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="1118" textLength="1366.4" clip-path="url(#terminal-3058588791-line-45)">track_job(job_id=&quot;greenhouse:lyft:8857056002&quot;,&#160;score=74,&#160;notes=&quot;Toronto&#160;hybrid,&#160;AWS/K8s,&#160;but&#160;6+&#160;yrs&#160;deep&#160;netwo…)</text><text class="terminal-3058588791-r2" x="1830" y="1118" textLength="12.2" clip-path="url(#terminal-3058588791-line-45)">
+</text><text class="terminal-3058588791-r3" x="0" y="1142.4" textLength="780.8" clip-path="url(#terminal-3058588791-line-46)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="1142.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-46)">
+</text><text class="terminal-3058588791-r4" x="0" y="1166.8" textLength="24.4" clip-path="url(#terminal-3058588791-line-47)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="1166.8" textLength="170.8" clip-path="url(#terminal-3058588791-line-47)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="1166.8" textLength="1366.4" clip-path="url(#terminal-3058588791-line-47)">track_job(job_id=&quot;greenhouse:gitlab:8704363002&quot;,&#160;score=72,&#160;notes=&quot;Remote&#160;Canada&#160;Python&#160;backend,&#160;but&#160;intermedia…)</text><text class="terminal-3058588791-r2" x="1830" y="1166.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-47)">
+</text><text class="terminal-3058588791-r3" x="0" y="1191.2" textLength="780.8" clip-path="url(#terminal-3058588791-line-48)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="1191.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-48)">
+</text><text class="terminal-3058588791-r4" x="0" y="1215.6" textLength="24.4" clip-path="url(#terminal-3058588791-line-49)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="1215.6" textLength="170.8" clip-path="url(#terminal-3058588791-line-49)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="1215.6" textLength="1366.4" clip-path="url(#terminal-3058588791-line-49)">track_job(job_id=&quot;greenhouse:brex:8815519002&quot;,&#160;score=70,&#160;notes=&quot;Vancouver&#160;office&#160;3&#160;days/wk,&#160;needs&#160;7+&#160;yrs&#160;full-…)</text><text class="terminal-3058588791-r2" x="1830" y="1215.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-49)">
+</text><text class="terminal-3058588791-r3" x="0" y="1240" textLength="780.8" clip-path="url(#terminal-3058588791-line-50)">&#160;&#160;⎿&#160;&#160;updated;&#160;jobs.xlsx:&#160;4233&#160;jobs&#160;(4233&#160;new&#160;today,&#160;highlighted)</text><text class="terminal-3058588791-r2" x="1830" y="1240" textLength="12.2" clip-path="url(#terminal-3058588791-line-50)">
+</text><text class="terminal-3058588791-r4" x="0" y="1264.4" textLength="24.4" clip-path="url(#terminal-3058588791-line-51)">⏺&#160;</text><text class="terminal-3058588791-r5" x="24.4" y="1264.4" textLength="170.8" clip-path="url(#terminal-3058588791-line-51)">dataimpulse&#160;·&#160;</text><text class="terminal-3058588791-r6" x="195.2" y="1264.4" textLength="183" clip-path="url(#terminal-3058588791-line-51)">usage_receipt()</text><text class="terminal-3058588791-r2" x="1830" y="1264.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-51)">
+</text><text class="terminal-3058588791-r3" x="0" y="1288.8" textLength="951.6" clip-path="url(#terminal-3058588791-line-52)">&#160;&#160;⎿&#160;&#160;9&#160;requests&#160;·&#160;0.28&#160;MB&#160;·&#160;median&#160;response&#160;2.57s&#160;·&#160;est.&#160;cost&#160;$0.0003&#160;at&#160;$1/GB</text><text class="terminal-3058588791-r2" x="1830" y="1288.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-52)">
+</text><text class="terminal-3058588791-r2" x="1830" y="1313.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-53)">
+</text><text class="terminal-3058588791-r2" x="0" y="1337.6" textLength="1671.4" clip-path="url(#terminal-3058588791-line-54)">All&#160;five&#160;top&#160;picks&#160;are&#160;Canada-based,&#160;so&#160;none&#160;of&#160;them&#160;needs&#160;visa&#160;sponsorship.&#160;Each&#160;is&#160;from&#160;a&#160;different&#160;company,&#160;and&#160;all&#160;five&#160;are&#160;saved&#160;as&#160;</text><text class="terminal-3058588791-r7" x="1671.4" y="1337.6" textLength="134.2" clip-path="url(#terminal-3058588791-line-54)">shortlisted</text><text class="terminal-3058588791-r2" x="1830" y="1337.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-54)">
+</text><text class="terminal-3058588791-r2" x="0" y="1362" textLength="329.4" clip-path="url(#terminal-3058588791-line-55)">with&#160;a&#160;score&#160;and&#160;reason&#160;in&#160;</text><text class="terminal-3058588791-r7" x="329.4" y="1362" textLength="109.8" clip-path="url(#terminal-3058588791-line-55)">jobs.xlsx</text><text class="terminal-3058588791-r2" x="439.2" y="1362" textLength="1390.8" clip-path="url(#terminal-3058588791-line-55)">.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1362" textLength="12.2" clip-path="url(#terminal-3058588791-line-55)">
+</text><text class="terminal-3058588791-r2" x="1830" y="1386.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-56)">
+</text><text class="terminal-3058588791-r2" x="1830" y="1410.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-57)">
+</text><text class="terminal-3058588791-r8" x="12.2" y="1435.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-58)">#</text><text class="terminal-3058588791-r8" x="48.8" y="1435.2" textLength="85.4" clip-path="url(#terminal-3058588791-line-58)">Company</text><text class="terminal-3058588791-r8" x="195.2" y="1435.2" textLength="61" clip-path="url(#terminal-3058588791-line-58)">Title</text><text class="terminal-3058588791-r8" x="524.6" y="1435.2" textLength="97.6" clip-path="url(#terminal-3058588791-line-58)">Location</text><text class="terminal-3058588791-r8" x="841.8" y="1435.2" textLength="134.2" clip-path="url(#terminal-3058588791-line-58)">Sponsorship</text><text class="terminal-3058588791-r8" x="1098" y="1435.2" textLength="61" clip-path="url(#terminal-3058588791-line-58)">Score</text><text class="terminal-3058588791-r8" x="1183.4" y="1435.2" textLength="73.2" clip-path="url(#terminal-3058588791-line-58)">Reason</text><text class="terminal-3058588791-r8" x="1512.8" y="1435.2" textLength="36.6" clip-path="url(#terminal-3058588791-line-58)">URL</text><text class="terminal-3058588791-r2" x="1830" y="1435.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-58)">
+</text><text class="terminal-3058588791-r8" x="0" y="1459.6" textLength="1830" clip-path="url(#terminal-3058588791-line-59)">&#160;────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1459.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-59)">
+</text><text class="terminal-3058588791-r2" x="12.2" y="1484" textLength="12.2" clip-path="url(#terminal-3058588791-line-60)">1</text><text class="terminal-3058588791-r2" x="48.8" y="1484" textLength="73.2" clip-path="url(#terminal-3058588791-line-60)">Stripe</text><text class="terminal-3058588791-r2" x="195.2" y="1484" textLength="219.6" clip-path="url(#terminal-3058588791-line-60)">Backend&#160;Engineer,&#160;</text><text class="terminal-3058588791-r2" x="524.6" y="1484" textLength="195.2" clip-path="url(#terminal-3058588791-line-60)">Toronto&#160;(hybrid)</text><text class="terminal-3058588791-r2" x="841.8" y="1484" textLength="231.8" clip-path="url(#terminal-3058588791-line-60)">Not&#160;needed&#160;(Canada)</text><text class="terminal-3058588791-r1" x="1098" y="1484" textLength="24.4" clip-path="url(#terminal-3058588791-line-60)">90</text><text class="terminal-3058588791-r2" x="1183.4" y="1484" textLength="256.2" clip-path="url(#terminal-3058588791-line-60)">Asks&#160;for&#160;2–12+&#160;years&#160;</text><text class="terminal-3058588791-r2" x="1512.8" y="1484" textLength="305" clip-path="url(#terminal-3058588791-line-60)">https://stripe.com/jobs/…</text><text class="terminal-3058588791-r2" x="1830" y="1484" textLength="12.2" clip-path="url(#terminal-3058588791-line-60)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="1508.4" textLength="183" clip-path="url(#terminal-3058588791-line-61)">Payments&#160;&amp;&#160;Risk</text><text class="terminal-3058588791-r2" x="1183.4" y="1508.4" textLength="256.2" clip-path="url(#terminal-3058588791-line-61)">building&#160;large-scale&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1508.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-61)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1532.8" textLength="207.4" clip-path="url(#terminal-3058588791-line-62)">payment&#160;APIs&#160;and&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1532.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-62)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1557.2" textLength="219.6" clip-path="url(#terminal-3058588791-line-63)">services;&#160;AWS&#160;and&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1557.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-63)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1581.6" textLength="268.4" clip-path="url(#terminal-3058588791-line-64)">Kubernetes&#160;preferred.&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1581.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-64)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1606" textLength="292.8" clip-path="url(#terminal-3058588791-line-65)">Very&#160;close&#160;to&#160;your&#160;core&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1606" textLength="12.2" clip-path="url(#terminal-3058588791-line-65)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1630.4" textLength="85.4" clip-path="url(#terminal-3058588791-line-66)">skills.</text><text class="terminal-3058588791-r2" x="1830" y="1630.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-66)">
+</text><text class="terminal-3058588791-r2" x="12.2" y="1654.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-67)">2</text><text class="terminal-3058588791-r2" x="48.8" y="1654.8" textLength="73.2" clip-path="url(#terminal-3058588791-line-67)">Affirm</text><text class="terminal-3058588791-r2" x="195.2" y="1654.8" textLength="305" clip-path="url(#terminal-3058588791-line-67)">Senior&#160;Software&#160;Engineer,</text><text class="terminal-3058588791-r2" x="524.6" y="1654.8" textLength="292.8" clip-path="url(#terminal-3058588791-line-67)">Remote,&#160;Canada&#160;(Ontario&#160;</text><text class="terminal-3058588791-r2" x="841.8" y="1654.8" textLength="122" clip-path="url(#terminal-3058588791-line-67)">Not&#160;needed</text><text class="terminal-3058588791-r1" x="1098" y="1654.8" textLength="24.4" clip-path="url(#terminal-3058588791-line-67)">87</text><text class="terminal-3058588791-r2" x="1183.4" y="1654.8" textLength="292.8" clip-path="url(#terminal-3058588791-line-67)">4+&#160;years&#160;Python&#160;backend&#160;</text><text class="terminal-3058588791-r2" x="1512.8" y="1654.8" textLength="305" clip-path="url(#terminal-3058588791-line-67)">https://job-boards.green…</text><text class="terminal-3058588791-r2" x="1830" y="1654.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-67)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="1679.2" textLength="183" clip-path="url(#terminal-3058588791-line-68)">Backend&#160;(Batch&#160;</text><text class="terminal-3058588791-r2" x="524.6" y="1679.2" textLength="109.8" clip-path="url(#terminal-3058588791-line-68)">eligible)</text><text class="terminal-3058588791-r2" x="1183.4" y="1679.2" textLength="305" clip-path="url(#terminal-3058588791-line-68)">and&#160;infrastructure&#160;on&#160;AWS</text><text class="terminal-3058588791-r2" x="1830" y="1679.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-68)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="1703.6" textLength="183" clip-path="url(#terminal-3058588791-line-69)">Infrastructure)</text><text class="terminal-3058588791-r2" x="1183.4" y="1703.6" textLength="256.2" clip-path="url(#terminal-3058588791-line-69)">and&#160;Kubernetes.&#160;Gap:&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1703.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-69)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1728" textLength="244" clip-path="url(#terminal-3058588791-line-70)">Airflow/Spark-style&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1728" textLength="12.2" clip-path="url(#terminal-3058588791-line-70)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1752.4" textLength="244" clip-path="url(#terminal-3058588791-line-71)">workflow&#160;tools.&#160;CAD&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1752.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-71)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1776.8" textLength="109.8" clip-path="url(#terminal-3058588791-line-72)">153–213k.</text><text class="terminal-3058588791-r2" x="1830" y="1776.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-72)">
+</text><text class="terminal-3058588791-r2" x="12.2" y="1801.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-73)">3</text><text class="terminal-3058588791-r2" x="48.8" y="1801.2" textLength="122" clip-path="url(#terminal-3058588791-line-73)">ClickHouse</text><text class="terminal-3058588791-r2" x="195.2" y="1801.2" textLength="305" clip-path="url(#terminal-3058588791-line-73)">Senior&#160;Software&#160;Engineer,</text><text class="terminal-3058588791-r2" x="524.6" y="1801.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-73)">Remote,&#160;Canada</text><text class="terminal-3058588791-r2" x="841.8" y="1801.2" textLength="122" clip-path="url(#terminal-3058588791-line-73)">Not&#160;needed</text><text class="terminal-3058588791-r1" x="1098" y="1801.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-73)">86</text><text class="terminal-3058588791-r2" x="1183.4" y="1801.2" textLength="305" clip-path="url(#terminal-3058588791-line-73)">5+&#160;years&#160;Go&#160;or&#160;Java&#160;cloud</text><text class="terminal-3058588791-r2" x="1512.8" y="1801.2" textLength="305" clip-path="url(#terminal-3058588791-line-73)">https://jobs.ashbyhq.com…</text><text class="terminal-3058588791-r2" x="1830" y="1801.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-73)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="1825.6" textLength="244" clip-path="url(#terminal-3058588791-line-74)">Cloud&#160;Infrastructure</text><text class="terminal-3058588791-r2" x="1183.4" y="1825.6" textLength="305" clip-path="url(#terminal-3058588791-line-74)">infrastructure&#160;on&#160;AWS&#160;and</text><text class="terminal-3058588791-r2" x="1830" y="1825.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-74)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1850" textLength="219.6" clip-path="url(#terminal-3058588791-line-75)">Kubernetes.&#160;Gaps:&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1850" textLength="12.2" clip-path="url(#terminal-3058588791-line-75)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1874.4" textLength="292.8" clip-path="url(#terminal-3058588791-line-76)">Terraform,&#160;Envoy/Istio,&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1874.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-76)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1898.8" textLength="207.4" clip-path="url(#terminal-3058588791-line-77)">network&#160;security.</text><text class="terminal-3058588791-r2" x="1830" y="1898.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-77)">
+</text><text class="terminal-3058588791-r2" x="12.2" y="1923.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-78)">4</text><text class="terminal-3058588791-r2" x="48.8" y="1923.2" textLength="85.4" clip-path="url(#terminal-3058588791-line-78)">MongoDB</text><text class="terminal-3058588791-r2" x="195.2" y="1923.2" textLength="305" clip-path="url(#terminal-3058588791-line-78)">Senior&#160;Software&#160;Engineer,</text><text class="terminal-3058588791-r2" x="524.6" y="1923.2" textLength="195.2" clip-path="url(#terminal-3058588791-line-78)">Toronto&#160;(hybrid)</text><text class="terminal-3058588791-r2" x="841.8" y="1923.2" textLength="122" clip-path="url(#terminal-3058588791-line-78)">Not&#160;needed</text><text class="terminal-3058588791-r1" x="1098" y="1923.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-78)">84</text><text class="terminal-3058588791-r2" x="1183.4" y="1923.2" textLength="305" clip-path="url(#terminal-3058588791-line-78)">5+&#160;years&#160;Java&#160;distributed</text><text class="terminal-3058588791-r2" x="1512.8" y="1923.2" textLength="305" clip-path="url(#terminal-3058588791-line-78)">https://www.mongodb.com/…</text><text class="terminal-3058588791-r2" x="1830" y="1923.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-78)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="1947.6" textLength="244" clip-path="url(#terminal-3058588791-line-79)">Atlas&#160;Search&#160;Systems</text><text class="terminal-3058588791-r2" x="1183.4" y="1947.6" textLength="219.6" clip-path="url(#terminal-3058588791-line-79)">backend&#160;and&#160;cloud&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1947.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-79)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1972" textLength="305" clip-path="url(#terminal-3058588791-line-80)">services.&#160;Search&#160;would&#160;be</text><text class="terminal-3058588791-r2" x="1830" y="1972" textLength="12.2" clip-path="url(#terminal-3058588791-line-80)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="1996.4" textLength="292.8" clip-path="url(#terminal-3058588791-line-81)">a&#160;new&#160;area&#160;for&#160;you.&#160;CAD&#160;</text><text class="terminal-3058588791-r2" x="1830" y="1996.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-81)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="2020.8" textLength="109.8" clip-path="url(#terminal-3058588791-line-82)">158–220k.</text><text class="terminal-3058588791-r2" x="1830" y="2020.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-82)">
+</text><text class="terminal-3058588791-r2" x="12.2" y="2045.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-83)">5</text><text class="terminal-3058588791-r2" x="48.8" y="2045.2" textLength="61" clip-path="url(#terminal-3058588791-line-83)">Toast</text><text class="terminal-3058588791-r2" x="195.2" y="2045.2" textLength="305" clip-path="url(#terminal-3058588791-line-83)">Senior&#160;Software&#160;Engineer,</text><text class="terminal-3058588791-r2" x="524.6" y="2045.2" textLength="219.6" clip-path="url(#terminal-3058588791-line-83)">Toronto&#160;/&#160;Ontario&#160;</text><text class="terminal-3058588791-r2" x="841.8" y="2045.2" textLength="122" clip-path="url(#terminal-3058588791-line-83)">Not&#160;needed</text><text class="terminal-3058588791-r1" x="1098" y="2045.2" textLength="24.4" clip-path="url(#terminal-3058588791-line-83)">82</text><text class="terminal-3058588791-r2" x="1183.4" y="2045.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-83)">5+&#160;years&#160;Java&#160;</text><text class="terminal-3058588791-r2" x="1512.8" y="2045.2" textLength="305" clip-path="url(#terminal-3058588791-line-83)">https://careers.toasttab…</text><text class="terminal-3058588791-r2" x="1830" y="2045.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-83)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="2069.6" textLength="183" clip-path="url(#terminal-3058588791-line-84)">Backend&#160;(Toast&#160;</text><text class="terminal-3058588791-r2" x="524.6" y="2069.6" textLength="97.6" clip-path="url(#terminal-3058588791-line-84)">(hybrid)</text><text class="terminal-3058588791-r2" x="1183.4" y="2069.6" textLength="305" clip-path="url(#terminal-3058588791-line-84)">microservices&#160;on&#160;AWS&#160;with</text><text class="terminal-3058588791-r2" x="1830" y="2069.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-84)">
+</text><text class="terminal-3058588791-r2" x="195.2" y="2094" textLength="170.8" clip-path="url(#terminal-3058588791-line-85)">International)</text><text class="terminal-3058588791-r2" x="1183.4" y="2094" textLength="280.6" clip-path="url(#terminal-3058588791-line-85)">PostgreSQL.&#160;Also&#160;wants&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2094" textLength="12.2" clip-path="url(#terminal-3058588791-line-85)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="2118.4" textLength="292.8" clip-path="url(#terminal-3058588791-line-86)">payment-integration&#160;and&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2118.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-86)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="2142.8" textLength="305" clip-path="url(#terminal-3058588791-line-87)">Kafka/Pulsar&#160;experience.&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2142.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-87)">
+</text><text class="terminal-3058588791-r2" x="1183.4" y="2167.2" textLength="158.6" clip-path="url(#terminal-3058588791-line-88)">CAD&#160;115–165k.</text><text class="terminal-3058588791-r2" x="1830" y="2167.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-88)">
+</text><text class="terminal-3058588791-r2" x="1830" y="2191.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-89)">
+</text><text class="terminal-3058588791-r2" x="1830" y="2216" textLength="12.2" clip-path="url(#terminal-3058588791-line-90)">
+</text><text class="terminal-3058588791-r1" x="0" y="2240.4" textLength="134.2" clip-path="url(#terminal-3058588791-line-91)">Runners-up:</text><text class="terminal-3058588791-r2" x="134.2" y="2240.4" textLength="1695.8" clip-path="url(#terminal-3058588791-line-91)">&#160;I&#160;read&#160;these&#160;too&#160;and&#160;saved&#160;a&#160;score&#160;and&#160;note&#160;for&#160;each,&#160;but&#160;left&#160;their&#160;status&#160;unchanged:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2240.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-91)">
+</text><text class="terminal-3058588791-r2" x="1830" y="2264.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-92)">
+</text><text class="terminal-3058588791-r1" x="0" y="2289.2" textLength="36.6" clip-path="url(#terminal-3058588791-line-93)">&#160;•&#160;</text><text class="terminal-3058588791-r1" x="36.6" y="2289.2" textLength="488" clip-path="url(#terminal-3058588791-line-93)">Amazon&#160;SDE&#160;II,&#160;Oracle&#160;Database@AWS&#160;(78):</text><text class="terminal-3058588791-r2" x="524.6" y="2289.2" textLength="1305.4" clip-path="url(#terminal-3058588791-line-93)">&#160;exact&#160;title&#160;match,&#160;but&#160;the&#160;job&#160;is&#160;in&#160;Vancouver,&#160;so&#160;you&#x27;d&#160;have&#160;to&#160;move.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2289.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-93)">
+</text><text class="terminal-3058588791-r1" x="0" y="2313.6" textLength="36.6" clip-path="url(#terminal-3058588791-line-94)">&#160;•&#160;</text><text class="terminal-3058588791-r1" x="36.6" y="2313.6" textLength="719.8" clip-path="url(#terminal-3058588791-line-94)">Lyft&#160;Senior&#160;SWE,&#160;Infrastructure&#160;&amp;&#160;Networking,&#160;Toronto&#160;(74):</text><text class="terminal-3058588791-r2" x="756.4" y="2313.6" textLength="1073.6" clip-path="url(#terminal-3058588791-line-94)">&#160;a&#160;specialist&#160;role&#160;focused&#160;on&#160;Envoy&#160;and&#160;service-mesh&#160;networking.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2313.6" textLength="12.2" clip-path="url(#terminal-3058588791-line-94)">
+</text><text class="terminal-3058588791-r1" x="0" y="2338" textLength="36.6" clip-path="url(#terminal-3058588791-line-95)">&#160;•&#160;</text><text class="terminal-3058588791-r1" x="36.6" y="2338" textLength="695.4" clip-path="url(#terminal-3058588791-line-95)">GitLab&#160;Backend&#160;Engineer&#160;(Python),&#160;Agent&#160;Foundations&#160;(72):</text><text class="terminal-3058588791-r2" x="732" y="2338" textLength="1098" clip-path="url(#terminal-3058588791-line-95)">&#160;mid-level,&#160;and&#160;needs&#160;experience&#160;building&#160;LLM&#160;apps&#160;with&#160;LangGraph.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2338" textLength="12.2" clip-path="url(#terminal-3058588791-line-95)">
+</text><text class="terminal-3058588791-r1" x="0" y="2362.4" textLength="36.6" clip-path="url(#terminal-3058588791-line-96)">&#160;•&#160;</text><text class="terminal-3058588791-r1" x="36.6" y="2362.4" textLength="488" clip-path="url(#terminal-3058588791-line-96)">Brex&#160;Senior&#160;SWE&#160;Backend,&#160;Vancouver&#160;(70):</text><text class="terminal-3058588791-r2" x="524.6" y="2362.4" textLength="1305.4" clip-path="url(#terminal-3058588791-line-96)">&#160;needs&#160;7+&#160;years,&#160;product-heavy,&#160;and&#160;three&#160;office&#160;days&#160;a&#160;week.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2362.4" textLength="12.2" clip-path="url(#terminal-3058588791-line-96)">
+</text><text class="terminal-3058588791-r2" x="1830" y="2386.8" textLength="12.2" clip-path="url(#terminal-3058588791-line-97)">
+</text><text class="terminal-3058588791-r1" x="0" y="2411.2" textLength="170.8" clip-path="url(#terminal-3058588791-line-98)">Usage&#160;receipt:</text><text class="terminal-3058588791-r2" x="170.8" y="2411.2" textLength="1659.2" clip-path="url(#terminal-3058588791-line-98)">&#160;9&#160;requests&#160;·&#160;0.28&#160;MB&#160;·&#160;median&#160;response&#160;2.57s&#160;·&#160;est.&#160;cost&#160;$0.0003&#160;at&#160;$1/GB&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-3058588791-r2" x="1830" y="2411.2" textLength="12.2" clip-path="url(#terminal-3058588791-line-98)">
+</text>
+    </g>
+    </g>
+</svg>

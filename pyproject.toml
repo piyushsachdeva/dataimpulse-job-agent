@@ -1,0 +1,20 @@
+[project]
+name = "jobagent"
+version = "0.1.0"
+description = "Job search agent driven by Claude Code, with network access routed through DataImpulse proxies"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=2.2",
+    "httpx[socks]>=0.27",
+    "python-dotenv>=1.0",
+    "openpyxl>=3.1",
+    "rich>=13",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+jobsearch-mcp = "jobagent.server:main"
+jobagent = "jobagent.cli:main"

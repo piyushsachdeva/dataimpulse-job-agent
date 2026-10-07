@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__dataimpulse__*",
+      "Read(profile.md)",
+      "Read(companies.toml)"
+    ]
+  }
+}
