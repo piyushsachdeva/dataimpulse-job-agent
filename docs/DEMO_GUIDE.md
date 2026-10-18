@@ -22,7 +22,6 @@ you get 100%. Then your **AI agent** uses the same DataImpulse tools to read and
 
 **5. Paste them into the project and test:**
 ```bash
-cd ~/repos/sponsorship-work/job-agent
 cp .env.example .env        # paste login + password here
 uv run python scripts/test_proxy.py
 ```
@@ -63,7 +62,7 @@ The same lines are saved to `logs/sweep-before-….log`. Here is the moment the 
 
 ![](screenshots/10-switch-env.svg)
 
-Cut to the dashboard and show:
+dashboard shows:
 - Rotating / Sticky, HTTP / SOCKS5, sticky time up to 120 min
   ![](screenshots/05-sessions-protocol-blurred.jpg)
 - Live IP count per country
@@ -72,22 +71,21 @@ Cut to the dashboard and show:
 ### AFTER (with DataImpulse)
 
 **Step 4 · The same scan again.** Every line says `proxy`. The panel stays **green**: **1,000 / 1,000 pages, 0 refused, 100%**, with dozens of household IPs. Dropped connections show as ↻ RETRY and then succeed.
-> Say: "Same scan. Nothing refused, and over 7,000 jobs I'd never seen."
+> Same scan. Nothing refused, and over 7,000 jobs 
 
 ![](screenshots/11-after-sweep.svg)
 
 Its log shows a dropped connection being retried on a new IP, and the summary: 1,000 OK, 0 refused:
 ![](screenshots/11b-after-log.svg)
 
-**Step 5 · Start the MCP server and hook it into Claude Code (you type this live).** The demo pauses,
-shows a short command card, and gives you a `(claude setup) $` prompt. You'll use **two terminals**.
+**Step 5 · Start the MCP server and hook it into Claude Code .** gives you a `(claude setup) $` prompt. You'll use **two terminals**.
 
 **5a. Terminal 2: start the server** and leave it running:
 ```bash
 cd ~/repos/sponsorship-work/job-agent && uv run jobsearch-mcp --http
 ```
 It prints its URL (`http://127.0.0.1:8765/mcp`), the DataImpulse gateway, and the command to connect Claude.
-> Say: "This is my DataImpulse MCP server: AI-agent tools that send every request through residential IPs."
+> This is DataImpulse MCP server: AI-agent tools that send every request through residential IPs.
 
 ![](screenshots/17a-start-server.svg)
 
@@ -115,7 +113,7 @@ If Claude asks permission to use a tool, choose **Yes, and don't ask again**. Cl
 ![](screenshots/18-claude-session.svg)
 
 **Meanwhile, terminal 2 shows every tool call live** (▶ call, ◀ result, time and size). Put it side by side with Claude on screen:
-> Say: "On the right you can see every call my AI agent makes, all going through DataImpulse."
+> On the right you can see every call AI agent makes, all going through DataImpulse.
 
 ![](screenshots/18b-server-window.svg)
 
@@ -135,23 +133,20 @@ If Claude asks permission to use a tool, choose **Yes, and don't ask again**. Cl
 ![](screenshots/14-spreadsheet.svg)
 
 **Step 8 · The cost.** About 40 MB, roughly 4 cents.
-> Say: "All of that cost about 4 cents. $1 per GB, pay-as-you-go, and it never expires."
+> All of that cost about 4 cents. $1 per GB, pay-as-you-go, and it never expires.
 
 ![](screenshots/15-receipt.svg)
 
 Then show the same cost in the dashboard **Usage Chart**:
 ![](screenshots/16-usage-chart.jpg)
 
-### Finish
-Face cam with the **DataImpulse logo**. Give your **own honest endorsement**, then the price: **$1/GB residential, $2/GB mobile, 24/7 live support**.
-
 ---
 
-## Using the MCP server any time (after the demo)
+## Using the MCP server any time 
 
 Two ways. Pick one:
 
-| | Start it yourself (shown in the demo) | Let Claude start it |
+| | Start it yourself | Let Claude start it |
 |---|---|---|
 | Start | `uv run jobsearch-mcp --http` (keep it running) | nothing to do: Claude starts it when a session opens |
 | Connect, once | `claude mcp add -s user --transport http dataimpulse http://127.0.0.1:8765/mcp` | `claude mcp add -s user dataimpulse -- uv run --directory "$PWD" jobsearch-mcp` |
@@ -160,18 +155,3 @@ Two ways. Pick one:
 Only one `dataimpulse` can be registered at a time. Switch with `claude mcp remove dataimpulse -s user`.
 
 ---
-
-## Rules (from DataImpulse)
-
-- **Before you record:** do one practice run, then **wait 5 minutes**. In the practice run, open `claude` once in this folder and accept the "trust this folder" prompt. Then reset Step 5 so 5b works on camera: `claude mcp remove dataimpulse -s user`.
-- **Blur:** the login, the password and the account name.
-- **No other brands:** don't name other proxy companies or the big careers site (`demo.sh` hides its name). The live Claude session in Step 5 shows Claude's interface, so **ask DataImpulse first** whether that's OK. Otherwise use `DEMO_HEADLESS_AI=1`.
-- **Approval:** send DataImpulse the script and then the final video **before publishing**.
-- **When you publish:**
-  - put their link in the **first 2 lines** of the description
-  - pin their link in a comment **within 24 h**
-  - keep the video **public for 12 months**
-
-**Logs:** every line on screen is also saved to `logs/sweep-before-….log` and `logs/sweep-after-….log`, with a summary at the end.
-
-**If something goes wrong:** if Step 2 shows few refusals, add `--conc 30` to both `jobagent.sweep` lines in `demo/demo.sh`. If it's refused from page 1, wait 5 minutes. A few sites (e.g. stripe.com) are blocked by DataImpulse itself (`SITE_PERMANENTLY_BLOCKED`). The agent then reads those postings with `get_job` instead.
