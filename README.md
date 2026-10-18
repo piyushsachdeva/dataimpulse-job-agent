@@ -4,7 +4,7 @@ A job scraper and AI agent tools (an MCP server for Claude Code) that send every
 through DataImpulse residential IPs.
 
 **Everything you need is in [`docs/DEMO_GUIDE.md`](docs/DEMO_GUIDE.md):** setup, the before/after demo,
-using it from Claude Code, and the rules for the sponsored video.
+using it from Claude Code
 
 ```bash
 uv sync
