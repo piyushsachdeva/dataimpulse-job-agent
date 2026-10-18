@@ -8,6 +8,9 @@ you get 100%. Then your **AI agent** uses the same DataImpulse tools to read and
 
 ## Part 1 · Setup (once)
 
+ Signup here [link](https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=techtutorialswithpiyush)
+
+
 **1. Open DataImpulse → Plans.**
 ![](screenshots/01-dashboard-plans.jpg)
 
